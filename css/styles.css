@@ -1,0 +1,15 @@
+#nav-bar{
+    display: inline-flex ;
+}
+
+#nav-bar>a{
+    padding: 10px;
+}
+
+.card{
+    margin: 10px;
+}
+.review_list{
+    display: flex;
+    flex-wrap: wrap;
+}
